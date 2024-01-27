@@ -6,15 +6,15 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="convopyro",
+    name="pyrogod",
     version="0.3",
-    author="Ripe",
-    author_email="ripeey@protonmail.com",
+    author="rubandurai",
+    author_email="ruban004dr@gmail.com",
     description="A conversation plugin class for pyrogram using inbuild Update Handlers",
     long_description=long_description,
     long_description_content_type="text/markdown",
     license='MIT',
-    url="https://github.com/Ripeey/Conversation-Pyrogram",
+    url="https://github.com/rubandurai/PyroGod",
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
